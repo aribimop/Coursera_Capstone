@@ -1,0 +1,41 @@
+# pip install googlemaps
+# pip install prettyprint
+
+import googlemaps
+import pprint
+import time   #pause script for a while
+
+# custom function
+# from GoogleMapsAPIKey import get_my_key
+API_KEY = ####
+
+# Define our Client
+gmaps = googlemaps.Client(key = API_KEY)
+
+# Define our search
+# Reference: https://developers.google.com/places/web-service/search
+# Reference: https://developers.google.com/places/web-service/details
+# github: googlemaps/places.py
+places_result = gmaps.places_nearby(location='-33.8670522,151.1957362', radius = 40000, open_now = False, type = 'cafe')
+pprint.pprint(places_result)
+
+#pause the script for 3 seconds
+time.sleep(3)
+
+# get the next 20 results
+places_result = gmaps.places_nearby(page_token = places_result['next_page_token'])
+pprint.pprint(places_result)
+
+# loop through each place in the results
+for place in places_result['results']:
+	# define my place id
+	my_place_id = place['place_id']
+
+	# define the field we want sent back to us
+	my_fields = ['name', 'formatted_phone_number', 'type']
+
+	# make request for the details
+	place_details = gmaps.place(place_id = my_place_id, fields = my_fields)
+
+	# print results
+	print(places_details)
