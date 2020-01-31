@@ -1,0 +1,56 @@
+DGP zones,zone_links,latitude,longitude,postal districts
+Ang Mo Kio,/wiki/Ang_Mo_Kio,1.3701666666666668,103.84561944444444,20
+Bedok,/wiki/Bedok,1.3235999999999999,103.9273388888889,16
+Bishan,"/wiki/Bishan,_Singapore",1.3508333333333333,103.85138888888888,20
+Boon Lay,/wiki/Boon_Lay_Planning_Area,1.3477353,103.7088263,NaN
+Bukit Batok,/wiki/Bukit_Batok,1.3590305555555557,103.76368055555555,"21, 23"
+Bukit Merah,/wiki/Bukit_Merah,1.2819055555555554,103.82391944444444,"2, 3, 4, 5, 9, 10"
+Bukit Panjang,/wiki/Bukit_Panjang,1.3808333333333334,103.7625,"21, 23"
+Bukit Timah,/wiki/Bukit_Timah,1.329411111111111,103.80207777777777,"10, 11, 21"
+Central Water Catchment,/wiki/Central_Water_Catchment,1.3666666666666667,103.8,25
+Changi,/wiki/Changi,1.345,103.98319444444445,17
+Changi Bay,/wiki/Changi_Bay,1.3168496,104.0206494,NaN
+Choa Chu Kang,/wiki/Choa_Chu_Kang,1.3833333333333333,103.75,23
+Clementi,"/wiki/Clementi,_Singapore",1.3161805555555557,103.76493888888889,"5, 21"
+Downtown Core,/wiki/Downtown_Core,1.2866666666666666,103.8536111111111,"1, 6, 7"
+Geylang,/wiki/Geylang,1.3205555555555555,103.88694444444445,"13, 14, 19"
+Hougang,/wiki/Hougang,1.3717777777777778,103.89305555555556,19
+Jurong East,/wiki/Jurong_East,1.3288833333333334,103.73994722222223,22
+Jurong West,/wiki/Jurong_West,1.3397222222222223,103.70444444444445,22
+Kallang,/wiki/Kallang,1.3108333333333333,103.86555555555555,"1, 7, 12, 13, 14, 15"
+Lim Chu Kang,/wiki/Lim_Chu_Kang,1.431844,103.719295,24
+Mandai,/wiki/Mandai,1.4116666666666666,103.7863888888889,25
+Marina East,/wiki/Marina_East,1.2911576,103.8720195,NaN
+Marina South,/wiki/Marina_South,1.2692,103.8579,NaN
+Marine Parade,/wiki/Marine_Parade,1.3030555555555556,103.90777777777778,15
+Museum,/wiki/Museum_Planning_Area,1.296611111111111,103.8485,09
+Newton,"/wiki/Newton,_Singapore",1.3071666666666668,103.83699999999999,9
+North-Eastern Islands,/wiki/North-Eastern_Islands,1.4043812,103.983914,NaN
+Novena,"/wiki/Novena,_Singapore",1.3208583333333332,103.84243055555555,"8, 11, 12"
+Orchard,mw-redirect,1.305272,103.8328757,NaN
+Outram,"/wiki/Outram,_Singapore",1.2848888888888887,103.84388888888888,3
+Pasir Ris,/wiki/Pasir_Ris,1.3720944444444445,103.94737222222223,"17, 18"
+Paya Lebar,/wiki/Paya_Lebar,1.3538993000000001,103.88782052662438,NaN
+Pioneer,"/wiki/Pioneer,_Singapore",1.3375884,103.6974104,NaN
+Punggol,/wiki/Punggol,1.3982777777777777,103.90897222222223,19
+Queenstown,"/wiki/Queenstown,_Singapore",1.2941666666666665,103.78612777777778,"3, 5"
+River Valley,"/wiki/River_Valley,_Singapore",1.3083982,103.8861489,NaN
+Rochor,/wiki/Rochor,1.305111111111111,103.85088888888889,07
+Seletar,/wiki/Seletar,1.4053333333333333,103.86627777777777,28
+Sembawang,/wiki/Sembawang,1.4490928,103.8200555,NaN
+Sengkang,/wiki/Sengkang,1.3916666666666666,103.89444444444445,"19, 28"
+Serangoon,/wiki/Serangoon,1.3553555555555556,103.86786944444444,"19, 28"
+Simpang,/wiki/Simpang,1.4452954,103.8497425,NaN
+Singapore River,/wiki/Singapore_River,1.28917835,103.84515431766008,NaN
+Southern Islands,/wiki/Southern_Islands,1.2470271,103.8296886,NaN
+Straits View,/wiki/Straits_View,1.2785521,103.8505526,NaN
+Sungei Kadut,/wiki/Sungei_Kadut,1.4180000000000001,103.75100277777777,25
+Tampines,/wiki/Tampines,1.3495916666666665,103.9567888888889,"16, 18"
+Tanglin,/wiki/Tanglin,1.3075844,103.8013147,NaN
+Tengah,"/wiki/Tengah,_Singapore",1.3624759,103.7099298,NaN
+Toa Payoh,/wiki/Toa_Payoh,1.3343027777777776,103.85632777777778,"11, 12, 13"
+Tuas,/wiki/Tuas,1.3166666666666667,103.65,22
+Western Islands,"/wiki/Western_Islands,_Singapore",1.2483605,103.6720186,NaN
+Western Water Catchment,/wiki/Western_Water_Catchment,1.3869444444444443,103.69194444444445,24
+Woodlands,"/wiki/Woodlands,_Singapore",1.4362694444444444,103.78670555555556,25
+Yishun,/wiki/Yishun,1.4303666666666668,103.83536388888888,"26, 27, 28"
